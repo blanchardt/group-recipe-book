@@ -38,6 +38,11 @@ Zel Star (https://github.com/zelstart)
 Trevor Blanchard (https://github.com/blanchardt)
 Chris Sullivan (https://github.commy/chris-sully)
 
+GitHub Repo: https://github.com/blanchardt/group-recipe-book  
+GitHub Original Repo: https://github.com/zelstart/my-recipe-book  
+Live Site: https://group-recipe-book-e481e1d25621.herokuapp.com/  
+Original Live Site: https://myrecipebook-ztc-5e1e57d00e6c.herokuapp.com/newrecipe  
+
 Unsplash- uesed for the pictures of food (https://unsplash.com/)
 
 Vecteezy- used for background piacture (https://www.vecteezy.com/)
