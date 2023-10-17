@@ -32,8 +32,8 @@ My Recipe page:
 Recipe Page:  
 ![showing the recipe info for Pancakes](./public/assets/recipe.png)   
 ![showing the comments for the Pancake recipe](./public/assets/comments.png)    
-Dashboard:   
-![The dashboard with one blog post on the page.](./assets/images/dashboard.png)    
+Browse:   
+![Browse page to view all of the recipes](./public/assets/browse.png)   
 Create New Recipe:   
 ![The page with form fields to input a name for the recipe, ingrediants used, Instructions on how to make, and a file select for the image.](./public/assets/create-recipe.png)   
 
